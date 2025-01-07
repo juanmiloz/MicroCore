@@ -1,0 +1,9 @@
+[submodule "MicroCore-Products"]
+	path = MicroCore-Products
+	url = https://github.com/juanmiloz/MicroCore-Products
+[submodule "MicroCore-Items"]
+	path = MicroCore-Items
+	url = https://github.com/juanmiloz/MicroCore-Items
+[submodule "MicroCore-EurekaServer"]
+	path = MicroCore-EurekaServer
+	url = https://github.com/juanmiloz/MicroCore-EurekaServer.git
