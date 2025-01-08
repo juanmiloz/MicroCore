@@ -7,3 +7,6 @@
 [submodule "MicroCore-EurekaServer"]
 	path = MicroCore-EurekaServer
 	url = https://github.com/juanmiloz/MicroCore-EurekaServer.git
+[submodule "MicroCore-Gateway"]
+	path = MicroCore-Gateway
+	url = https://github.com/juanmiloz/MicroCore-Gateway
