@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MicroCore-EurekaServer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MicroCore-Items" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MicroCore-Products" vcs="Git" />
   </component>
