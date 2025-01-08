@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MicroCore-Project.iml" filepath="$PROJECT_DIR$/.idea/MicroCore-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mscv-product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mscv-product.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/msvc-items.main.iml" filepath="$PROJECT_DIR$/.idea/modules/msvc-items.main.iml" />
     </modules>
   </component>
